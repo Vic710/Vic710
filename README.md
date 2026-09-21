@@ -22,7 +22,7 @@
 
 ## Currently
 
-Building more things **without AI writing the code for me**.
+Building more things **without AI writing the code for me** while also staying caught up on the latest agentic practices.
 
 I'm spending time with C++, learning systems and software engineering through projects, while continuing to explore AI/ML and research.
 
@@ -34,17 +34,7 @@ I'm spending time with C++, learning systems and software engineering through pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,angular,spring,flask,pytorch,git,github,linux,docker" alt="C++, Python, Java, JavaScript, TypeScript, Angular, Spring, Flask, PyTorch, Git, GitHub, Linux, Docker">
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Also:** NumPy · Pandas · LangChain · LangGraph · Hugging Face · RabbitMQ · IBM MQ · WebSockets · SQL
-
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,angular,spring,flask,pytorch,numpy,pandas,langchain,langgraph,huggingface,git,github,linux,docker" alt="Tech Stack">
 
 ---
 
