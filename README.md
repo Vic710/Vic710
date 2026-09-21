@@ -5,10 +5,16 @@
 **IT @ PICT · Incoming Software Engineer @ Bloomberg**
 
 <p>
-<a href="https://www.linkedin.com/in/shlok-sangamnerkar/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/vicmakes_stuff"><img src=".assets/x.svg" width="32" alt="X"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shlok.doing.stuff/"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/shlok-sangamnerkar/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/vicmakes_stuff"><img src="./assets/x.svg" width="32" alt="X"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shlok.doing.stuff/"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"></a>
 </p>
 
 </div>
+
+---
+
+## About
+
+I'm a developer who loves technology in all its forms. I've built things everywhere from hackathons and competitions to real-world corporate projects, across backend systems, web apps and AI/ML, and I'm always picking up something new along the way.
 
 ---
 
@@ -62,7 +68,7 @@ I'm spending time with C++, learning systems and software engineering through pr
 ## Beyond Code
 
 <div align="center">
-  <img src=".assets/pisb.svg" width="560" alt="Secretary, PISB (PICT IEEE Student Branch)">
+  <img src="./assets/pisb.svg" width="560" alt="Secretary, PISB (PICT IEEE Student Branch)">
 </div>
 
 ---
@@ -71,6 +77,14 @@ I'm spending time with C++, learning systems and software engineering through pr
 
 <div align="center">
   <img src="./isocalendar.svg" width="100%" alt="GitHub contribution calendar">
+</div>
+
+---
+
+## Languages
+
+<div align="center">
+  <img src="./languages.svg" width="100%" alt="Most used GitHub languages">
 </div>
 
 ---
