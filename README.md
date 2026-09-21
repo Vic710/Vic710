@@ -75,14 +75,6 @@ I'm spending time with C++, learning systems and software engineering through pr
 
 ---
 
-## Languages
-
-<div align="center">
-  <img src="./languages.svg" width="100%" alt="Most used GitHub languages">
-</div>
-
----
-
 <div align="center">
 
 ### Building, breaking, fixing, repeating.
