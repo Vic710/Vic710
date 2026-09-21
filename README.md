@@ -5,15 +5,7 @@
 **IT @ PICT · Incoming Software Engineer @ Bloomberg**
 
 <p>
-  <a href="https://www.linkedin.com/in/shlok-sangamnerkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/vicmakes_stuff">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.instagram.com/shlok.doing.stuff/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<a href="https://www.linkedin.com/in/shlok-sangamnerkar/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/vicmakes_stuff"><img src="https://skillicons.dev/icons?i=twitter" width="32" alt="X"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shlok.doing.stuff/"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"></a>
 </p>
 
 </div>
@@ -32,9 +24,28 @@ I'm spending time with C++, learning systems and software engineering through pr
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,angular,spring,flask,pytorch,git,github,linux,docker&perline=13" alt="Tech Stack">
-</div>
+<p align="center">
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"></a>
+<a href="https://dev.java"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"></a>
+<a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular"></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"></a>
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask"></a>
+<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"></a>
+<a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"></a>
+</p>
+
+<p align="center">
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"></a>
+<a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangChain-242938?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"></a>
+<a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-242938?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"></a>
+<a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging_Face-242938?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"></a>
+</p>
 
 ---
 
@@ -50,22 +61,11 @@ I'm spending time with C++, learning systems and software engineering through pr
 
 ## Beyond Code
 
-**Secretary, PISB** (PICT IEEE Student Branch)
-
----
-
-## GitHub Activity
-
 <div align="center">
-  <img src="./metrics.svg" alt="GitHub statistics and activity">
-</div>
 
----
+<a href="https://www.ieee.org"><img src="https://img.shields.io/badge/Secretary-PISB-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Secretary, PISB"></a>
+<a href="https://www.ieee.org"><img src="https://img.shields.io/badge/PICT-IEEE_Student_Branch-242938?style=for-the-badge&logo=ieee&logoColor=00A3E0" alt="PICT IEEE Student Branch"></a>
 
-## Recent Activity
-
-<div align="center">
-  <img src="./activity.svg" width="100%" alt="Recent GitHub activity">
 </div>
 
 ---
