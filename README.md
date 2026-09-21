@@ -6,13 +6,13 @@
 
 <p>
   <a href="https://www.linkedin.com/in/shlok-sangamnerkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/vicmakes_stuff">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://www.instagram.com/shlok.doing.stuff/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
@@ -33,8 +33,8 @@ I'm spending time with C++, learning systems and software engineering through pr
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,angular,spring,flask,pytorch,numpy,pandas,langchain,langgraph,huggingface,git,github,linux,docker" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,angular,spring,flask,pytorch,git,github,linux,docker&perline=13" alt="Tech Stack">
+</div>
 
 ---
 
@@ -48,32 +48,16 @@ I'm spending time with C++, learning systems and software engineering through pr
 
 ---
 
-## Highlights
+## Beyond Code
 
-<div align="center">
-
-| 🎓 **9.6** | 💻 **1710** | ⚡ **1412** | 🏆 **3×** |
-|:---:|:---:|:---:|:---:|
-| CGPA @ PICT | CodeChef · 3★ | Codeforces · Specialist | Competition podiums / wins |
-
-</div>
-
-<br>
-
-- **2nd Place** — Cummins IndoVate 2025
-- **Winner** — Pulzion DataQuest 2023 & 2024
-- **2nd Place** — Xodia RL 2025
-- **Secretary** — PISB
-- Organized **31 Days of Code** for 385+ participants and ML SIGs for 100+ students
+**Secretary, PISB** (PICT IEEE Student Branch)
 
 ---
 
 ## GitHub Activity
 
 <div align="center">
-
-<img src="./metrics.svg" alt="GitHub statistics and activity">
-
+  <img src="./metrics.svg" alt="GitHub statistics and activity">
 </div>
 
 ---
@@ -81,9 +65,7 @@ I'm spending time with C++, learning systems and software engineering through pr
 ## Recent Activity
 
 <div align="center">
-
-<img src="./activity.svg" alt="Recent GitHub activity">
-
+  <img src="./activity.svg" width="100%" alt="Recent GitHub activity">
 </div>
 
 ---
@@ -91,9 +73,7 @@ I'm spending time with C++, learning systems and software engineering through pr
 ## Languages
 
 <div align="center">
-
-<img src="./languages.svg" alt="Most used GitHub languages">
-
+  <img src="./languages.svg" width="100%" alt="Most used GitHub languages">
 </div>
 
 ---
@@ -101,9 +81,7 @@ I'm spending time with C++, learning systems and software engineering through pr
 ## Contribution Graph
 
 <div align="center">
-
-<img src="./isocalendar.svg" alt="GitHub contribution calendar">
-
+  <img src="./isocalendar.svg" width="100%" alt="GitHub contribution calendar">
 </div>
 
 ---
