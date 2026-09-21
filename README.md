@@ -5,7 +5,7 @@
 **IT @ PICT · Incoming Software Engineer @ Bloomberg**
 
 <p>
-<a href="https://www.linkedin.com/in/shlok-sangamnerkar/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/vicmakes_stuff"><img src="https://skillicons.dev/icons?i=twitter" width="32" alt="X"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shlok.doing.stuff/"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/shlok-sangamnerkar/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/vicmakes_stuff"><img src="./assets/x.svg" width="32" alt="X"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shlok.doing.stuff/"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"></a>
 </p>
 
 </div>
@@ -62,18 +62,7 @@ I'm spending time with C++, learning systems and software engineering through pr
 ## Beyond Code
 
 <div align="center">
-
-<a href="https://www.ieee.org"><img src="https://img.shields.io/badge/Secretary-PISB-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Secretary, PISB"></a>
-<a href="https://www.ieee.org"><img src="https://img.shields.io/badge/PICT-IEEE_Student_Branch-242938?style=for-the-badge&logo=ieee&logoColor=00A3E0" alt="PICT IEEE Student Branch"></a>
-
-</div>
-
----
-
-## Languages
-
-<div align="center">
-  <img src="./languages.svg" width="100%" alt="Most used GitHub languages">
+  <img src="./assets/pisb.svg" width="560" alt="Secretary, PISB (PICT IEEE Student Branch)">
 </div>
 
 ---
@@ -82,6 +71,14 @@ I'm spending time with C++, learning systems and software engineering through pr
 
 <div align="center">
   <img src="./isocalendar.svg" width="100%" alt="GitHub contribution calendar">
+</div>
+
+---
+
+## Languages
+
+<div align="center">
+  <img src="./languages.svg" width="100%" alt="Most used GitHub languages">
 </div>
 
 ---
