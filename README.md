@@ -5,7 +5,7 @@
 **IT @ PICT · Incoming Software Engineer @ Bloomberg**
 
 <p>
-<a href="https://www.linkedin.com/in/shlok-sangamnerkar/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/vicmakes_stuff"><img src="./assets/x.svg" width="32" alt="X"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shlok.doing.stuff/"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/shlok-sangamnerkar/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/vicmakes_stuff"><img src=".assets/x.svg" width="32" alt="X"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shlok.doing.stuff/"><img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"></a>
 </p>
 
 </div>
@@ -68,7 +68,7 @@ I'm spending time with C++, learning systems and software engineering through pr
 ## Beyond Code
 
 <div align="center">
-  <img src="./assets/pisb.svg" width="560" alt="Secretary, PISB (PICT IEEE Student Branch)">
+  <img src=".assets/pisb.svg" width="560" alt="Secretary, PISB (PICT IEEE Student Branch)">
 </div>
 
 ---
