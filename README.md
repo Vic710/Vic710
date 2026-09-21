@@ -1,75 +1,118 @@
 <div align="center">
 
-# SHLOK
+# Shlok Sangamnerkar
 
 **IT @ PICT · Incoming Software Engineer @ Bloomberg**
 
-<a href="https://www.linkedin.com/in/shlok-sangamnerkar/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/vicmakes_stuff">
-  <img src="https://cdn.simpleicons.org/x/ffffff" width="24" alt="X">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/shlok.doing.stuff/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" alt="Instagram">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/shlok-sangamnerkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/vicmakes_stuff">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X">
+  </a>
+  <a href="https://www.instagram.com/shlok.doing.stuff/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram">
+  </a>
+</p>
 
 </div>
 
 ---
 
-### currently
+## Currently
 
-Learning to build things without AI writing the code for me.
+Building more things **without AI writing the code for me**.
 
-Mostly working with **C++**, building small projects, learning how software works under the hood, and trying not to take life too seriously.
+I'm spending time with C++, learning systems and software engineering through projects, while continuing to explore AI/ML and research.
+
+> Trying to write code I actually understand.
 
 ---
 
-### stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,ts,js,spring,angular,mysql,git,github,linux,docker" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,angular,spring,flask,pytorch,git,github,linux,docker" alt="C++, Python, Java, JavaScript, TypeScript, Angular, Spring, Flask, PyTorch, Git, GitHub, Linux, Docker">
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Also:** NumPy · Pandas · LangChain · LangGraph · Hugging Face · RabbitMQ · IBM MQ · WebSockets · SQL
 
 </div>
 
 ---
 
-### GitHub
+## Experience
+
+| | Role | What I Worked On |
+|---|---|---|
+| **BNY** | SDE Intern · 2026 | Real-time SEPA payments dashboard using Angular, Spring Boot, Oracle, WebSockets and IBM MQ |
+| **Froncort.AI** | AI Intern → Consultant · 2025–26 | Multi-node LangGraph agents, document workflows and DNO Engine optimization |
+| **LSOYS Apps & Games** | AIML Developer Intern · 2025 | CNN-based plant leaf nutrient deficiency detection |
+
+---
+
+## Highlights
 
 <div align="center">
 
-<a href="https://github.com/Vic710">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vic710&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="GitHub stats">
-</a>
-&nbsp;
-<a href="https://github.com/Vic710">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic710&layout=compact&hide_border=true&langs_count=7&theme=transparent" alt="Top languages">
-</a>
+| 🎓 **9.6** | 💻 **1710** | ⚡ **1412** | 🏆 **3×** |
+|:---:|:---:|:---:|:---:|
+| CGPA @ PICT | CodeChef · 3★ | Codeforces · Specialist | Competition podiums / wins |
 
-<br><br>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=Vic710&hide_border=true&background=00000000&theme=transparent" alt="GitHub streak">
+<br>
+
+- **2nd Place** — Cummins IndoVate 2025
+- **Winner** — Pulzion DataQuest 2023 & 2024
+- **2nd Place** — Xodia RL 2025
+- **Secretary** — PISB
+- Organized **31 Days of Code** for 385+ participants and ML SIGs for 100+ students
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="./metrics.svg" alt="GitHub statistics and activity">
 
 </div>
 
 ---
 
-### activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
-
----
-
-### contribution graph
+## Recent Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vic710&bg_color=00000000&color=808080&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" alt="GitHub activity graph">
+<img src="./activity.svg" alt="Recent GitHub activity">
+
+</div>
+
+---
+
+## Languages
+
+<div align="center">
+
+<img src="./languages.svg" alt="Most used GitHub languages">
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="./isocalendar.svg" alt="GitHub contribution calendar">
 
 </div>
 
@@ -77,6 +120,6 @@ Mostly working with **C++**, building small projects, learning how software work
 
 <div align="center">
 
-<sub>built one commit at a time.</sub>
+### Building, breaking, fixing, repeating.
 
 </div>
